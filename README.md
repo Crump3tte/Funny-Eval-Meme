@@ -1,6 +1,7 @@
 # Funny Eval Meme
 
-Changes the machine key to random on each launch.
+- Changes the machine key to random on each launch.
+- Sets the licensed days to 9999999.
 
 1. Launch Arbor.
 2. Replace java file in your arbor install folder, mine is in C:\MindShare\Arbor\java.
