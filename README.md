@@ -4,9 +4,10 @@
 - Sets the licensed days to 9999999.
 
 1. Launch Arbor.
-2. Replace java file in your arbor install folder, mine is in C:\MindShare\Arbor\java.
-3. Launch services.msc as admin and restart the arborserver service.
-4. Head back in to Arbor and click Help -> Activate Arbor.
-5. Choose the free evaluation option.
-6. Profit??
+2. Launch services.msc as admin and stop the arborserver service.
+3. Replace java file in your arbor install folder, mine is in C:\MindShare\Arbor\java.
+4. Head back to services.msc open from before and start the arborserver service.
+5. Navigate back to Arbor from earlier and click Help -> Activate Arbor.
+6. Choose the free evaluation option.
+7. Profit??
  
